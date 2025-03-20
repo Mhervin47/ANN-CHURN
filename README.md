@@ -1,6 +1,5 @@
 # ANN-CHURN
-# 📊 ANN-Based Churn Prediction Web App
-
+# 📊 ANN-Based Churn Prediction Web App [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ann-churn-jetfyb8d3myuxbjvstt5ht.streamlit.app)
 ## 🛠️ Project Overview
 This project implements an Artificial Neural Network (ANN) model to predict customer churn. The model is trained on historical customer data and deployed using Streamlit to provide an interactive web-based interface.  
 Users can input customer details and receive a churn prediction in real-time.
