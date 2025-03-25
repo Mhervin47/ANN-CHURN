@@ -20,4 +20,6 @@ Users can input customer details and receive a churn prediction in real-time.
 - **Frontend:** Streamlit for web interface  
 - **Visualization:** TensorBoard for training insights  
 - **Deployment:** Streamlit Cloud  
- 
+
+ ## 🌐 Live Demo
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ann-churn-jetfyb8d3myuxbjvstt5ht.streamlit.app)
